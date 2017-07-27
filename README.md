@@ -26,3 +26,7 @@
 -To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on logout and you will logged out and will be redirected to the home page.
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-logout.jpg"/>
+
+## How to assign permissions/access to other people 
+- Login to the portal using the proper credentials.
+-
