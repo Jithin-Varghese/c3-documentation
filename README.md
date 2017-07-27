@@ -18,4 +18,7 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-account-type.jpg"/>
 
+- Enter the password for your account and click on
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-sign-in.jpg"/>
 
