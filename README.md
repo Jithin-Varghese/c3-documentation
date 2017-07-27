@@ -13,3 +13,9 @@
 - On clicking **LOGIN** button, you will be redirected to the following page.
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-login-1.jpg"/>
+
+- Choose the type of account associated with your mail id.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-account-type.jpg"/>
+
+
