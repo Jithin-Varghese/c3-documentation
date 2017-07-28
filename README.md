@@ -47,5 +47,13 @@
 
 <img src= "https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-user-added.jpg"/>
 
+## Managing Plans & Invites
+
+### Creating Plans 
+
+- Login to the portal using the proper credentials.
+- On the left hand side of the page, click on the **PLANS** button. 
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-plans-button.jpg"/>
 
 
