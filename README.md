@@ -45,4 +45,7 @@
 
 - On clicking **SUBMIT** the user will be sucessfully added with the checked role assigned and you will be redirected to the pages with all the users listed.
 
+<img src= "https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-user-added.jpg"/>
+
+
 
