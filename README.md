@@ -6,6 +6,8 @@
 
 ### Home Page Overview
 
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-home-page.jpg"/>  
+
 **A** : The logo **Contoso** is customizable. It will be replaced with the logo of the **Partner**  
 **B** : The **CONTACT US** button can be linked to the 'Contact us' page of the the Partner website
 
