@@ -37,7 +37,9 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-user-button.jpg"/>
 
-- Enter the mail address of the user to be added and check the box corresponding to the role you wish to assign and click on **SUBMIT**.
+- Enter the mail address of the user to be added and check the box corresponding to the role you wish to assign and click on **SUBMIT**. For demonstration purpose, enter the following details:  
+  * Email: **abc@xyz.com**  
+  * check the **Tenant Admin** option
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-user-permission.jpg"/>
 
