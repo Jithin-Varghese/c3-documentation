@@ -4,6 +4,11 @@
 
 ## Portal Overview
 
+### Home Page Overview
+
+**A** : The logo **Contoso** is customizable. It will be replaced with the logo of the **Partner**  
+**B** : The **CONTACT US** button can be linked to the 'Contact us' page of the the Partner website
+
 ### How to login to C3
 - Navigate to the portal using the link https://csp-sandbox-web.azurewebsites.net/#/welcome.
 - Click on the **LOGIN** button on the top right portion of the page.
