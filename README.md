@@ -37,8 +37,10 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-user-button.jpg"/>
 
-- Enter the mail address of the user to be added and assign the necessary permission and click on **SUBMIT**.
+- Enter the mail address of the user to be added and check the box corresponding to the role you wish to assign and click on **SUBMIT**.
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-user-permission.jpg"/>
+
+- On clicking **SUBMIT** the user will be sucessfully added with the checked role assigned and you will be redirected to the pages with all the users listed.
 
 
