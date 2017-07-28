@@ -29,4 +29,8 @@
 
 ## How to assign permissions/access to other people 
 - Login to the portal using the proper credentials.
--
+- On the left hand side of the page, click on the **USER MANAGEMENT** button.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-usermanagement.jpg"/>
+
+
