@@ -56,4 +56,8 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-plans-button.jpg"/>
 
+- Click on the **ADD NEW PLAN** button on the right hand side of the page.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-new-plan-button.jpg"/>
+
 
