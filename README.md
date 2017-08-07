@@ -67,5 +67,12 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-new-plan-button.jpg"/>
 
+- Enter the following details  
+  *  **Plan Name** : Enter the plan name.  
+  *  **Description** : Enter a small description for the plan you are about to create.
+  * **IsPrivate** : Check this box if you don't want your plan to appear on the plans' home page. If you leave this box unchecked, the                       plan you created will appear on the home page of plans'.
+  *  **Allow CSP subscriptions to be shared against offers in the plan** : If you check this box, ...
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-new-plan.jpg"/>
 
 
