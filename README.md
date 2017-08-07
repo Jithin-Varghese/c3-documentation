@@ -93,7 +93,9 @@
   
   *  After selecting the add-on(s) **click** on the **+** button.  
   
-  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-on-plus-%2B.jpg/">
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-on-plus-%2B.jpg/">  
 
+*  After selecting the offers and add-on(s) scroll down to the page and **click** on the submit button at the bottom of the page.  
 
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/plan-submit.jpg/">  
 
