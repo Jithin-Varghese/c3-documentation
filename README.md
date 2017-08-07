@@ -132,7 +132,11 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - Enter the details for the new plan.  
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-plan.jpg"/>
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-plan.jpg"/>  
+
+- In the **OFFERS** Portion, type the name of the Customer offer that was created in **3.2**. Check the box corresponding to the custom offer you wish to add to your plan.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/contosso-azure-bcdr.jpg"/>
 
 
 
