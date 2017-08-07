@@ -90,6 +90,10 @@
   *  **Add-on(s)** : Click on the drop down button and then select the add ons you wish to add to your plan.  
   
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/select-add-on.jpg/">  
+  
+  *  After selecting the add-on(s) **click** on the **+** button.  
+  
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-on-plus-%2B.jpg/">
 
 
 
