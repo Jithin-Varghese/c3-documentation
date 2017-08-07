@@ -105,6 +105,9 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/custom-offers-button.jpg/">  
 
+- **Click** on the **ADD CUSTOM OFFER** button on the right hand side of the page.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-custom-offer.jpg/">
 
 
 
