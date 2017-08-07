@@ -101,6 +101,12 @@
 
 ### Creating Custom Offer   
 
+- On the side bar, **click** on the **Custom Offers**.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/custom-offers-button.jpg/">  
+
+
+
 
 
 
