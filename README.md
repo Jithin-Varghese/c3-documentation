@@ -73,6 +73,10 @@
   * **IsPrivate** : Check this box if you don't want your plan to appear on the plans' home page. If you leave this box unchecked, the                       plan you created will appear on the home page of plans'.
   *  **Allow CSP subscriptions to be shared against offers in the plan** : If you check this box, ...
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-new-plan.jpg"/>
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-new-plan.jpg"/>  
+
+- Scroll down to the bottom of the page. The available offers are listed. Select the offers you wish to add to your plan. For demonstration purposes an offer has been selected.   
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/offer-list.jpg"/>  
 
 
