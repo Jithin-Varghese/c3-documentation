@@ -119,6 +119,18 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/custom-offers-page.jpg/">  
 
+### 3.3 Adding Custom Offer in a Plan  
+
+- Login to the portal using the proper credentials.
+- On the left hand side of the page, click on the **PLANS** button. 
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-plans-button.jpg"/>
+
+- Click on the **ADD NEW PLAN** button on the right hand side of the page.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-new-plan-button.jpg"/>
+
+
 
 
 
