@@ -79,4 +79,15 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/offer-list.jpg"/>  
 
+- Enter the following details.  
+  *  **Friendly Name** : Enter a name you wish to give to the plan. For demonstration purposes, we have entered, _Contosso-Dynamics 365_.  
+  *  **List Price** : This is the orginal price of the offer.  
+  *  **ERP Price**  : This is the price that the portal suggests.  
+  *  **Sale Price** : Enter the price you wish to sell your plan to the customer.  
+  
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/adding-plan.jpg/">  
+
+
+
+
 
