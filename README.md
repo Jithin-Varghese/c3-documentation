@@ -108,7 +108,13 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - **Click** on the **ADD CUSTOM OFFER** button on the right hand side of the page.  
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-custom-offer.jpg/">
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-custom-offer.jpg/">  
+
+- Enter the following details.  
+  *  **Display Name** : Enter the name you wish to give to the custom offer. For demonstrational purpose, we are giving it a name _Azure BCDR_.  
+  *  **Cost Price**:  Enter the price you wish to sell the custom offer for. For demonstrational purposes we are giving it a value _50_.  
+- After entering the details, **click** on **SUBMIT**.  
+
 
 
 
