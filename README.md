@@ -136,7 +136,11 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - In the **OFFERS** Portion, type the name of the Customer offer that was created in **3.2**. Check the box corresponding to the custom offer you wish to add to your plan.
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/contosso-azure-bcdr.jpg"/>
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/contosso-azure-bcdr.jpg"/>  
+
+- After selecting the offers you wish to add to the plan, **click** on **SUBMIT** button at the bottom.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/plan-submit.jpg"/>
 
 
 
