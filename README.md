@@ -128,7 +128,11 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - Click on the **ADD NEW PLAN** button on the right hand side of the page.
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-new-plan-button.jpg"/>
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-add-new-plan-button.jpg"/>  
+
+- Enter the details for the new plan.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-plan.jpg"/>
 
 
 
