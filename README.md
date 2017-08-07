@@ -1,17 +1,17 @@
-# c3-documentation
+# C3-Documentation
 
 
 
-## Portal Overview
+## 1. Portal Overview
 
-### Home Page Overview
+### 1.1 Home Page Overview
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-home-page.jpg"/>  
 
 **A** : The logo **Contoso** is customizable. It will be replaced with the logo of the **Partner**  
 **B** : The **CONTACT US** button can be linked to the 'Contact us' page of the the Partner website
 
-### How to login to C3
+### 1.2 How to login to C3
 - Navigate to the portal using the link https://csp-sandbox-web.azurewebsites.net/#/welcome.
 - Click on the **LOGIN** button on the top right portion of the page.  
 
@@ -29,12 +29,12 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-sign-in.jpg"/>
 
-### How to logout from C3
+### 1.3 How to logout from C3
 -To logout from the portal, Click on the button with your username on the top right hand side of the page. A drop down list will be displayed. Click on logout and you will logged out and will be redirected to the home page.
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-logout.jpg"/>
 
-## How to assign permissions/access to other people 
+## 2. How to assign permissions/access to other people 
 - Login to the portal using the proper credentials.
 - On the left hand side of the page, click on the **USER MANAGEMENT** button.
 
@@ -54,9 +54,9 @@
 
 <img src= "https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/csp-user-added.jpg"/>
 
-## Managing Plans & Invites
+## 3. Managing Plans & Invites
 
-### Creating Plans 
+### 3.1 Creating Plans 
 
 - Login to the portal using the proper credentials.
 - On the left hand side of the page, click on the **PLANS** button. 
@@ -70,7 +70,7 @@
 - Enter the following details  
   *  **Plan Name** : Enter the plan name.  
   *  **Description** : Enter a small description for the plan you are about to create.
-  * **IsPrivate** : Check this box if you don't want your plan to appear on the plans' home page. If you leave this box unchecked, the                       plan you created will appear on the home page of plans'.
+  * **IsPrivate** : Check this box if you don't want your plan to appear on the welcome page. If you leave this box unchecked, the                       plan you created will appear on the welcome page.
   *  **Allow CSP subscriptions to be shared against offers in the plan** : If you check this box, ...
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/add-new-plan.jpg"/>  
@@ -87,6 +87,7 @@
   
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/adding-plan.jpg/">  
 
+Please note that **Add-on(s)** are optional. If you want to add an **Add-on** please proceed as follows.   
   *  **Add-on(s)** : Click on the drop down button and then select the add ons you wish to add to your plan.  
   
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/select-add-on.jpg/">  
@@ -99,7 +100,7 @@
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/plan-submit.jpg/">  
 
-### Creating Custom Offer   
+### 3.2 Creating Custom Offer   
 
 - On the side bar, **click** on the **Custom Offers**.
 
