@@ -193,9 +193,9 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 - The tabs are explained below:  
   * **AzureApplicable** : If _Yes_ the customer will have _Azure Subscription_ associated with the customer.  
   * **AzureUsageMultiplyPercentage** : 
-  * **AzureForEnterprise** :   
+  * **AzureForEnterprise** :               
   
-  - **Define Tax %** button   
+- **Define Tax %** button   
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tax-%25-button.jpg/">  
   
   - On **clicking** the button **Define Tax %**, you will be redirected to a page which display the tax that is being deducted from the customer. We can edit the Tax% percent by clicking on the **Edit** button.
@@ -203,8 +203,15 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tax-%25-details.jpg/">  
   
   
+ - **Quick Impersonation** button.
   
-                                                                                                                          
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/quick-impersonation-button.jpg"/>  
+                        
+- To avoid the hassle of searching for the _admin_ user to _impersonate_, we can directly click on the **Quick Impersonation** button.  
+- **Click** on the **Quick Impersonation** button.  
+- On clicking the Quick Impersonate button, the list of the users with the _admin_ access will be listed. **Click** on the **IMPERSONATE** button to impersonate.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/quick-impersonate-list-users.jpg/">  
                                                                                                                           
                                                                                              
 
