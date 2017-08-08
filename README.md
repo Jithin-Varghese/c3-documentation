@@ -174,6 +174,25 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/azure-subscription-details.jpg/">  
 
+- **Users** button.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/users-button.jpg/">  
+
+- On clicking the **Users** button, you will be redirected to the the page with all the users of the organization listed.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/azure-user-list.jpg/">  
+
+- **Tenant Configuration** button.
+ 
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tenant-config-button.jpg/">  
+
+- On clicking the **Tenant Configuration** button, you will be redirected to the following page.
+
+<img src=https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tenant-config-of-customer.jpg/">
+                                                                                                                          
+                                                                                                                          
+                                                                                             
+
 
 
 
