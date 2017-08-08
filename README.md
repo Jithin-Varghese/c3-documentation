@@ -193,7 +193,15 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 - The tabs are explained below:  
   * **AzureApplicable** : If _Yes_ the customer will have _Azure Subscription_ associated with the customer.  
   * **AzureUsageMultiplyPercentage** : 
-  * **AzureForEnterprise** : 
+  * **AzureForEnterprise** :   
+  
+  - **Define Tax %** button   
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tax-%25-button.jpg/">  
+  
+  - On **clicking** the button **Define Tax %**, you will be redirected to a page which display the tax that is being deducted from the customer. We can edit the Tax% percent by clicking on the **Edit** button.
+  
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tax-%25-details.jpg/">  
+  
   
   
                                                                                                                           
