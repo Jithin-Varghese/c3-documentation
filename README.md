@@ -158,6 +158,9 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customer-buttons-side.jpg/">  
 
+- On clicking the **Reconcilation Report**, the report corresponding to that customer will be generated. The Reconcilation report will list out the number of licenses purchased from **Partner Center**, the name that is given to the plan for the user, the number of licenses that are billed in **chargify**.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/reconsilation-button-click.jpg/">
 
 
 
