@@ -142,8 +142,17 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/plan-submit.jpg"/>
 
+## 	Managing Customers  
 
+###  All button in customers explained with inside settings  
 
+- On the left hand side of the page, **click** on the **Customers** button.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customer-button.jpg"/>
+
+- On clicking the **Customers** button, you will be redirected to the customer list.   
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customers-list.jpg"/>
 
 
 
