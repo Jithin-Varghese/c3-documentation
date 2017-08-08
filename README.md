@@ -212,6 +212,8 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 - On clicking the Quick Impersonate button, the list of the users with the _admin_ access will be listed. **Click** on the **IMPERSONATE** button to impersonate.  
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/quick-impersonate-list-users.jpg/">  
+
+- **Reload Subscriptioin Summary**  
                                                                                                                           
                                                                                              
 
