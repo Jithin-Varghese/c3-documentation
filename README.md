@@ -152,7 +152,13 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - On clicking the **Customers** button, you will be redirected to the customer list.   
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customers-list.jpg"/>
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customers-list.jpg"/>  
+
+-  Corresponding to each customer. there will be the following buttons.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customer-buttons-side.jpg/">  
+
+
 
 
 
