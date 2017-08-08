@@ -188,7 +188,14 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - On clicking the **Tenant Configuration** button, you will be redirected to the following page.
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tenant-config-of-customer.jpg/">
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/tenant-config-of-customer.jpg/">  
+
+- The tabs are explained below:  
+  * **AzureApplicable** : If _Yes_ the customer will have _Azure Subscription_ associated with the customer.  
+  * **AzureUsageMultiplyPercentage** : 
+  * **AzureForEnterprise** : 
+  
+  
                                                                                                                           
                                                                                                                           
                                                                                              
