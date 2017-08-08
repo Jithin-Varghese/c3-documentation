@@ -142,9 +142,9 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/plan-submit.jpg"/>
 
-## 	Managing Customers  
+## 	4. Managing Customers  
 
-###  All button in customers explained with inside settings  
+###  4.1 All button in customers explained with inside settings  
 
 - On the left hand side of the page, **click** on the **Customers** button.
 
@@ -213,9 +213,23 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/quick-impersonate-list-users.jpg/">  
 
-- **Reload Subscriptioin Summary**  
-                                                                                                                          
-                                                                                             
+- **Reload Subscriptioin Summary** button.
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/reload-subscription-summary-button.jpg/">
+
+- The subscription summary of the customer will be reloaded by clicking on the **Reload Subscription Summary** button.  
+    
+ ### 4.2 Impersonate.
+ 
+ To make changes in a customer subscription, you have to impersonate the _admin_ user of the customer. To find the _admin_ user of the customer follow the steps described below:  
+ 
+ - On the side bar of the portal, **click** on the **Customers** button.  
+ 
+ <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/customer-button.jpg/">  
+
+- **Click** on the **Users** button corresponding to the customer.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/users-button.jpg/">  
 
 
 
