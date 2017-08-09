@@ -259,7 +259,10 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
   - **Click** on the **Subscription Change History** button.  
   
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/subscription-change-history%20button.jpg/">     
-  
+   
+   - On **clicking** the button, you will be redirected to the page which displays the details of the subscriptions of the corresponding customer.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/customer-subscription-change.jpg/">
 
 
 
