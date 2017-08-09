@@ -253,6 +253,13 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
   * **Download Usage based line items**  
   
   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-buttons.jpg/">  
+  
+  #### Subscription Change History  
+  
+  - **Click** on the **Subscription Change History** button.  
+  
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/subscription-change-history%20button.jpg/">     
+  
 
 
 
