@@ -229,9 +229,17 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - **Click** on the **Users** button corresponding to the customer.  
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/users-button.jpg/">  
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/users-button.jpg/">    
 
 
+
+## Managing revenue and cost summary  
+
+### 	All button explained with inside settings
+
+- To load the Revenue and Cost Summary page, **click** on the **Revenue & Cost Summary** button on the bar on the left hand side of the portal.  
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/revenus-cost-summary.jpg/">
 
 
 
