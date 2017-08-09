@@ -275,9 +275,16 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
    
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/history-by-date.jpg/">   
    
-   - Now the history will be sorted on the basis of _Offer_, ie **HISTORY BY OFFER**.  
+   - Now the Subscription change history will be sorted on the basis of _Offer_, ie **HISTORY BY OFFER**.  
    
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/history-by-offer.jpg/">     
+   
+   #### Profitability by Subscriptions
+   
+   - **Click** on the **Profitability by Subscriptions** button.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/profitability%20by%20subscriptions-button.jpg/">  
+   
    
    
 
