@@ -243,7 +243,16 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - On **clicking** the **Revenue & Cost Summary** button, you will be redirected to the page which displays the list of all the customers along with their billing details.   
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-summary-customer-list.jpg/">
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-summary-customer-list.jpg/">  
+
+- Corresponding to each Customer we have 5 buttons:  
+  * **Subscription Change History**
+  * **Proditability by Subscriptions**  
+  * **Reload Proditability Report**  
+  * **View Invoice**  
+  * **Download Usage based line items**  
+  
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-buttons.jpg/">  
 
 
 
