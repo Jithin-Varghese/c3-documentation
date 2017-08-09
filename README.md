@@ -239,7 +239,12 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
 
 - To load the Revenue and Cost Summary page, **click** on the **Revenue & Cost Summary** button on the bar on the left hand side of the portal.  
 
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/revenus-cost-summary.jpg/">
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/revenus-cost-summary.jpg/">  
+
+- On **clicking** the **Revenue & Cost Summary** button, you will be redirected to the page which displays the list of all the customers along with their billing details.   
+
+<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-summary-customer-list.jpg/">
+
 
 
 
