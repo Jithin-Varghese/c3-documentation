@@ -289,7 +289,24 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
    
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/profitability%20by%20subscriptions-details.jpg/">
  
+   - The **PROFITABIILITY BY SUBSCRIPTIONS** page will display the following information.     
+     * **Subscription**: The subscription that the Customer is assigned.  
+     * **Billed Amount**: The amount that is billed from the customer.  
+     * **MSFT Invoice**: The amount that Microsoft is charging the partner.  
+     * **Other Cost**:  This cost include the cost for using c3, the cost for payment gateway for credit card. 
+     * **Profit**: Profit is calculated from _Billed amount_, _MSFT Invoice_ and _Other Cost_.  
+     * **Profit %**: Percentage of Profit.  
+     
+   #### Reload Profitability Report  
    
+   - **Click** on the **Reload Profitability Report** button. This will reload the Profitability report of the customer.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/Reload-profitability-report-button.jpg/">  
+   
+     
+   
+   
+     
    
    
 
