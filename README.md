@@ -262,7 +262,14 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
    
    - On **clicking** the button, you will be redirected to the page which displays the details of the subscriptions of the corresponding customer.  
    
-   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/customer-subscription-change.jpg/">
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/customer-subscription-change.jpg/">  
+   
+   
+   - To view the subscription change details on a different month or a different year, click on the drop down list on the left hand side of the page and adjust the month and year accordingly to view the details.    
+   
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-date-change.jpg/">  
 
 
 
