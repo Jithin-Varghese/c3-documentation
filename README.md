@@ -266,10 +266,20 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/customer-subscription-change.jpg/">  
    
    
-   - To view the subscription change details on a different month or a different year, click on the drop down list on the left hand side of the page and adjust the month and year accordingly to view the details.    
+   - To view the subscription change details on a different month or a different year, click on the drop down list on the right hand side of the page and adjust the month and year accordingly to view the details.    
    
    
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/revenue-cost-date-change.jpg/">  
+   
+   - To sort the Subscription Change history in a different view, click on the **HISTORY BY DATE** button on the right hand side.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/history-by-date.jpg/">   
+   
+   - Now the history will be sorted on the basis of _Offer_, ie **HISTORY BY OFFER**.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/history-by-offer.jpg/">     
+   
+   
 
 
 
