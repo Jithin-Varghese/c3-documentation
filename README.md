@@ -258,7 +258,7 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
   
   - **Click** on the **Subscription Change History** button.  
   
-<img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/subscription-change-history%20button.jpg/">     
+  <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/subscription-change-history%20button.jpg/">     
   
 
 
