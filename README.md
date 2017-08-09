@@ -285,6 +285,11 @@ Please note that **Add-on(s)** are optional. If you want to add an **Add-on** pl
    
    <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/profitability%20by%20subscriptions-button.jpg/">  
    
+   - You will be redirected to the page with all the profitability details of the customer.  
+   
+   <img src="https://github.com/Jithin-Varghese/c3-documentation/blob/master/images/images-sub/profitability%20by%20subscriptions-details.jpg/">
+ 
+   
    
    
 
