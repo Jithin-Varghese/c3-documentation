@@ -1,8 +1,10 @@
-# C3-Documentation
+# CSP CONTROL CENTER 
 
-
+This documentation can help you to configure and work around C3.  
 
 ## 1. Portal Overview
+
+This section walks you through the home page of the portal and how to login and logout from the portal.
 
 ### 1.1 Home Page Overview
 
